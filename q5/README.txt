@@ -12,10 +12,6 @@ $ cd q5/src/q5
 
 $ javac *.java
 
-$ cd
-
-$ cd ppl-assignment-Ananya1213
-
-$ cd q5/build/classes
+$ cd..
 
 $ java q5.Q5
