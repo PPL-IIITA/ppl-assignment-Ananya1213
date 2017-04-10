@@ -6,16 +6,16 @@ Output is in NewPairFormed.txt
 
 TO RUN on UBUNTU:(for question 4)
 
-cd ppl-assignment-Ananya1213
+$ cd ppl-assignment-Ananya1213
 
-cd q4/src/q4
+$ cd q4/src/q4
 
-javac *.java
+$ javac *.java
 
-cd
+$ cd
 
-cd ppl-assignment-Ananya1213
+$ cd ppl-assignment-Ananya1213
 
-cd q4/build/classes
+$ cd q4/build/classes
 
-java q4.Q4
+$ java q4.Q4
