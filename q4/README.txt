@@ -2,6 +2,8 @@ Class diagram in respective folders
 
 Documentation is in dist folder.
 
+Output is in NewPairFormed.txt
+
 TO RUN on UBUNTU:(for question 4)
 
 cd ppl-assignment-Ananya1213
