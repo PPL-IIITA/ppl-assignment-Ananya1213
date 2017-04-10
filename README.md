@@ -1,3 +1,7 @@
+q1 named as "ppl" was submitted on due date (27th Feb) on repository "ananya1222".
+Due to certain reason I was unable to log in with repository "ananya1222".
+So I uploaded my new questions as well as earlier question on repository "Ananya1213".
+
 # ppl-assignment-Ananya1213
 ppl-assignment-Ananya1213 created by GitHub Classroom
 
